@@ -1,4 +1,4 @@
-# 🚀 AprendendoComBecrownd
+# 🚀 Aprendendo Com Becrownd
 
 Bem-vindo ao meu repositório **AprendendoComBecrownd**! 👩‍💻✨
 Aqui estou registrando minha jornada de aprendizado em programação através dos exercícios da plataforma **Beecrowd**.
